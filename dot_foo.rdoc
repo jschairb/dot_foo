@@ -1,0 +1,5 @@
+= dot_foo
+
+Generate this with
+    dot_foo rdoc
+After you have described your command line interface
